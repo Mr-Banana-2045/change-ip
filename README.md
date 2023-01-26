@@ -7,8 +7,18 @@ IP change every 10 seconds
 
 # tool start
 
+## start PYTHON
+
 git clone https://github.com/Mr-Banana-2045/change-ip
 
 cd change-ip
 
 python3 change.py
+
+## start BASH
+
+git clone https://github.com/Mr-Banana-2045/change-ip
+
+cd change-ip
+
+python3 ip_change.sh
