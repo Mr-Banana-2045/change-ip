@@ -21,5 +21,5 @@ git clone https://github.com/Mr-Banana-2045/change-ip
 
 cd change-ip
 
-python3 ip_change.sh
+bash ip_change.sh
 </pre>
